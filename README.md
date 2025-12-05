@@ -6,6 +6,8 @@
 
 **Transform your entire codebase into a single, AI-readable Markdown document through the Model Context Protocol.**
 
+English | [简体中文](README.zh-CN.md)
+
 CodeWeaver MCP Server brings powerful code packaging capabilities to AI assistants like Claude Code. It converts complex project structures into clean, navigable Markdown files - perfect for code reviews, documentation, AI analysis, and sharing with teams.
 
 ## Why CodeWeaver MCP?
